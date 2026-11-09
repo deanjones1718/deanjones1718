@@ -1,5 +1,3 @@
-<img src="photo.jpg" alt="Dean Jones Robin" width="140" align="right">
-
 ### Hi, I'm Dean Jones Robin
 
 **Staff Engineer · SDET and Test Automation Lead**, based in Penang, Malaysia and open to roles worldwide.
